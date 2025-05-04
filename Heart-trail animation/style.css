@@ -18,6 +18,8 @@ span {
     animation: animate 6s linear;
 }
 
+/* animate the mouse trail */
+
 @keyframes animate {
     0% {
         transform: translate(-50%,-50%);
